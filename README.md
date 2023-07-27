@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EthanHosier
-- 🌱 I’m currently learning Java and React Native
+- 🌱 I’m currently learning C/C++ and Next.js
 - 💞️ I’m looking for a Summer Internship
-- 📫 Email: ethanjhosier@gmail.com; Phone: 07476133726; LinkedIn: https://www.linkedin.com/in/ethan-hosier-623474253/
+- 📫 Email: ethan.hosier22@ic.ac.uk; LinkedIn: https://www.linkedin.com/in/ethan-hosier-623474253/
 
 <!---
 EthanHosier/EthanHosier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
