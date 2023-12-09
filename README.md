@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EthanHosier
-- 🌱 I’m currently learning C/C++ and Next.js
+- 🌱 I’m currently learning Python (ML) and Next.js
 - 💞️ I’m looking for 2024 Spring/Summer Internships
 - 📫 Email: ethan.hosier22@ic.ac.uk; LinkedIn: https://www.linkedin.com/in/ethan-hosier-623474253/
 
