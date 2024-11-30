@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @EthanHosier and I study Computing at Imperial College London
-- 💞️ I’m looking for a 2024 Summer Internship
 - 💻 Check out my personal website: https://ethanhosier.com
 
 <!---
